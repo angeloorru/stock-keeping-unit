@@ -9,7 +9,7 @@
 <p>What do you need:</p>
 <ul>
     <li>A tool such as Postman or alternatively, a browser needed to execute http requests</li>
-    <li>On a terminal window/tab, navigate to your project directory up to the location of the package.json file. Once there, run the command "npm i". This should install all the dependencies needed as well as generating the dist and node_modules folders and the package-lock.json file.</li>
+    <li>On a terminal window/tab, navigate to your project directory up to the location of the package.json file. Once there, run the command "npm i". This should install all the dependencies needed as well as the node_modules folders and the package-lock.json file.</li>
 </ul>
 
 <p>Before starting to execute the requests, ensure that your nodeJS server is up and running (i.e. npm start)</p>
